@@ -1,0 +1,23 @@
+Week 2 plan:
+------------
+Monday
+ - learn about more CSS properties, especially those used to resize 
+   and reposition elements
+
+Tuesday
+ - continue learning CSS, practice on several examples
+ - install a local virtual server on your computers
+
+Wednesday
+ - learn how to connect to a server using FTP
+ - begin learning about JavaScript and jQuery 
+
+Thursday
+ - start making pages in a completely new way - responsive
+ - learn both the principles and techniques of responsivity
+
+Friday
+ - learn Bootstrap, the most common and comprehensive CSS/JS framework 
+   that allows you to create nice websites in fraction of the time 
+   (but does little to help you understand CSS)
+
